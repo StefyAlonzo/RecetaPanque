@@ -7,11 +7,8 @@ Vamos a ver como se hace un panque
 
 
 #Agregando mas texto editable////participantes 
--Cristobal
--Luis 
+-Luis
+-Roberto
 -Alejandro
 -Jazmin 
 -....
-
-
-
