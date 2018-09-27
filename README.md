@@ -12,3 +12,5 @@ Vamos a ver como se hace un panque
 -Alejandro
 -Jazmin 
 -....
+
+jazmin tomo hace un rato un cafe y ahorita esta haciendo su trabajo porque no le entendio y no para de hablar 
