@@ -9,6 +9,5 @@ Vamos a ver como se hace un panque
 eliminamos ingredientes porque vamos a comparar un panque
 
 # inversion
-la INVERSION PARA COMPARARUN PANQUE ES POCA PORQUE ES REALIDAD NO CUESTA tanto
-
+la INVERSION PARA COMPARARUN PANQUE ES POCA PORQUE ES REALIDAD NO CUESTA
 
